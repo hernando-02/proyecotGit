@@ -1,4 +1,27 @@
 body
 {
     color: blue;
+    text-align: center;
+    font-family: "Arial";
+    margin-top: 0;
+    background-color: rgb(179, 94, 15);
+
+}
+#header
+{
+    color: rgb(0, 0, 0);
+    height: 50px;
+    background-color: rgb(179, 94, 15);
+
+}
+#contenido
+{
+    color: black;
+    text-align: left;
+    padding-left: 50px;
+    background-color: white;
+}
+#footer
+{
+    background-color: rgb(179, 94, 15);
 }
